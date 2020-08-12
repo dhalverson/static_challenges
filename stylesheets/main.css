@@ -1,0 +1,38 @@
+.header {
+  font-family: "Verdana";
+  font-size: 40px;
+  padding: 25px;
+  color: white;
+  background-color: red;
+}
+
+.nav {
+  padding: 25px;
+  background-color: gray;
+  text-align: right;
+}
+.images {
+  padding: 25px;
+}
+
+
+.text {
+
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: gray;
+   color: white;
+   padding: 25px;
+   font-family: "Verdana";
+   text-align: center;
+}
+
+aside {
+  float: right;
+  width: 30%;
+}
